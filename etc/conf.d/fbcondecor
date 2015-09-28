@@ -1,0 +1,6 @@
+# On which TTYs should fbcondecor be enabled? Defaults to RC_TTY_NUMBER.
+# FBCONDECOR_TTYS="1 2 3 4 5 6"
+
+# Allows to set different themes on different consoles
+# format: "<console>:<theme> <console>:<theme> (...)"
+FBCONDECOR_TTY_MAP="1:gentoo_natural  2:gentoo_natural 3:gentoo_natural 4:gentoo_natural 5:gentoo_natural 6:gentoo_natural"
